@@ -1,5 +1,5 @@
 # 🎬 Movie Analytics Dashboard (Power BI)
-![](House.jpg)
+![](Moviesimage.jpg)
 
 ## Introduction
 
@@ -30,6 +30,7 @@ The movie industry produces thousands of films annually. But what makes a movie 
 ---
 
 ## Modeling
+![](Datamodel.png)
 
 ### Data Preparation
 
@@ -54,7 +55,7 @@ The movie industry produces thousands of films annually. But what makes a movie 
 ## Visualizations
 
 ### Summary Dashboard
-
+![](summarypage.png)
 **KPIs:**
 - Movie Count: 16,638
 - Critic Count: 941,829
@@ -71,7 +72,7 @@ The movie industry produces thousands of films annually. But what makes a movie 
   - Studio vs. Movie Count  
 
 ### Genre Page
-
+![](genrepage.png)
 - Stacked bar chart: Genre vs. Movie Count (Drama leads with 9,006 titles)  
 - Donut charts:
   - RT Score vs. RT Score Remaining  
@@ -79,20 +80,20 @@ The movie industry produces thousands of films annually. But what makes a movie 
 - Table: Detailed movie-level metrics by genre  
 
 ### Director Page
-
+![](Directorpage.png)
 - Line & Clustered Column Chart:
   - Directors by Movie Count and Average Ratings (e.g., Woody Allen, Spielberg, Hitchcock)  
 - RT Fresh Threshold used as benchmark  
 - Supporting donut charts and detailed movie table  
 
 ### Actor Page
-
+![](Actorpage.png)
 - Analysis of prolific actors (e.g., Samuel L. Jackson, Bruce Willis)  
 - Average critic and audience score comparison  
 - Donut visuals and sortable data tables  
 
 ### Writer Page
-
+![](Writerpage.png)
 - Highlights frequent screenwriters and their score trends (e.g., Coen Brothers, Woody Allen)  
 - Line and bar combo chart with "Fresh" threshold  
 - Donut visuals and accompanying table  
